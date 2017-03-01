@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Era 0.5</string>
+    <string name="TextoPreEncuesta1">¡Bienvenido! \n Te ayudaré a calcular las fórmulas que más usas rápida y eficazmente.</string>
+<string name="TextoPreEncuesta2">Organiza tus fórmulas \n Clasifícalas según la frecuencia de uso asignándoles colores con el método del
+semáforo</string>
+    <string name="TextoPreEncuesta3">Organiza tus fórmulas \nClasifícalas según la frecuencia de uso asignándoles colores con el método del
+semáforo</string>
+        <string name="TextoPreEncuesta4">¡Ya casi estás listo! \n
+Debes rellenar un breve formulario acerca de la frecuencia de uso de tus fórmulas</string>
+    <string name="TextoPostEncuesta">¡Enhorabuena! \n ERA está configurada correctamente Ya puedes empezar a utilizarla.  </string>
+
+</resources>
+
+
